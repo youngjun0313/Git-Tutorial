@@ -1,2 +1,2 @@
-console.log("branch 1");
-console.log("branch 2");
+console.log("master");
+console.log("branch1");
